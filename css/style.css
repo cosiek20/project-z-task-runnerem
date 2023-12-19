@@ -1,0 +1,40 @@
+.frontPage {
+  height: 1000px;
+  background: url(../images/background-image.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 50px 230px;
+}
+.frontPage .navBar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 200px;
+}
+.frontPage .navBar .logo {
+  font-family: "Whisper", cursive;
+  font-size: 26px;
+  color: "#fed136";
+}
+.frontPage .navBar ul {
+  list-style-type: none;
+  color: white;
+}
+.frontPage .navBar li {
+  display: inline-block;
+}
+.frontPage h2 {
+  font-family: "Karla";
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+.frontPage h1 {
+  font-family: "Montserrat";
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFJQTtFQUNFLGNBQUE7RUFDQSwrQ0FBQTtFQUNBLDJCQUFBO0VBQ0Esc0JBQUE7RUFDQSxtQkFBQTtBQ0hGO0FESUU7RUFDRSxhQUFBO0VBQ0EsOEJBQUE7RUFDQSxvQkFBQTtBQ0ZKO0FER0k7RUFDRSwrQkFBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTtBQ0ROO0FER0k7RUFDRSxxQkFBQTtFQUNBLFlBQUE7QUNETjtBREdJO0VBQ0UscUJBQUE7QUNETjtBRElFO0VBQ0Usb0JBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFlBQUE7QUNGSjtBRElFO0VBQ0UseUJBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFlBQUE7QUNGSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */

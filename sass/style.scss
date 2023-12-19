@@ -1,0 +1,42 @@
+// font-family: 'Whisper', cursive;
+// font-family: 'Karla', sans-serif;
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Roboto', sans-serif;
+.frontPage{
+  height: 1000px;
+  background: url(../images/background-image.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 50px 230px;
+  .navBar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+    .logo{
+      font-family: 'Whisper', cursive;
+      font-size: 26px;
+      color: "#fed136"
+    }
+    ul{
+      list-style-type: none;
+      color: white;
+    }
+    li{
+      display: inline-block;
+    }
+  }
+  h2{
+    font-family: 'Karla';
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+  h1{
+    font-family: 'Montserrat';
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+}
