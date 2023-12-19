@@ -105,3 +105,30 @@ section{
     margin: 50px 35px;
   }
 }
+
+.footer{
+  .wrapper{
+    .list{
+      display: flex;
+      justify-content: center;
+      align-items: center ;
+    }
+    ul{
+      list-style: none;
+      padding: 0 50px;
+
+      li{
+        display: inline-block;
+      }
+    }
+    i{
+      height: 50px;
+      width: 50px;
+      background-color: black;
+      border-radius: 50%;
+      color: white;
+      line-height: 50px;
+      text-align: center;
+    }
+  }
+}
